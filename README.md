@@ -5,7 +5,7 @@ I have been following this cryptocurrency to discover if this was a rugpull or i
 about the token that I have discovered.
 
 
-##################################################################
+-----------------------------------------------------------------
 # Contract information and real data
 Contract: 0x64f36701138f0e85cc10c34ea535fdbadcb54147
 bscscan: https://bscscan.com/address/0x64f36701138f0e85cc10c34ea535fdbadcb54147
@@ -15,7 +15,7 @@ twitter: @inuanon
 
 Discord: discord.gg/inuanon
 
-##################################################################
+------------------------------------------------------------------
 # Brief History / Anon Inu Story:
 For those interested in understanding this currency:
 
